@@ -1,7 +1,7 @@
 /**
  * Ajouts pour Neopixel - PAC Techno
  */
-//% weight=30 color=#431c75 icon="ïƒƒ" block="Extras pour Neopixel"
+//% weight=30 color=#431c75 icon="" block="Extras pour Neopixel"
 //% groups=['others', 'Animations']
 namespace PAC_Neopixel {
 
