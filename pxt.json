@@ -1,10 +1,11 @@
 {
     "name": "pxt-neopixel-extras",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.0.1",
+    "description": "Neopixel animation extras",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "neopixel": "*"
     },
     "files": [
         "README.md",
